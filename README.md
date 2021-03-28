@@ -36,7 +36,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
 
-<br>
+<br/>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Dallakjan&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
@@ -46,7 +46,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
 
-<br>
+<br/>
 
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />   
@@ -58,8 +58,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" alt="Styledcomponents" height="25" /> 
-<img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wAw1dBzS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png" alt="Styledcomponents" height="25" /> 
+<img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wAw1dBzS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/vb6ai56xqgpc0bcfn92y.png" alt="MaterialUI" height="25" /> 
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" height="25" />  
 </div>  
------
 
+-----
 Last Edited on: 29/03/2021
