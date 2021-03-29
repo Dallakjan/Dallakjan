@@ -21,7 +21,9 @@
 
 <p align = "center">
  
-
+[<img src ="https://img.shields.io/badge/-COVID-red?style=for-the-badge&logo=appveyor">](https://covid-750c3.web.app/)
+[<img src ="https://img.shields.io/badge/-Shop_Layout-blue?style=for-the-badge&logo=appveyor">](https://best-shop-3e4bf.web.app/)
+[<img src ="https://img.shields.io/badge/-ToDoApp-orange?style=for-the-badge&logo=appveyor">](https://todoapp-d9efb.web.app/)
 <img src="https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif" width="35px"/>
 <br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hajk-dallakjan/)
