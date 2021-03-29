@@ -21,10 +21,8 @@
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://covid-750c3.web.app/)
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://best-shop-3e4bf.web.app/)
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://todoapp-d9efb.web.app/)
-<img src="https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif" width="3%"/>
+
+<img src="https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif" width="35px"/>
 <br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hajk-dallakjan/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hajql_9873/)
