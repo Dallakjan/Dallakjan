@@ -21,7 +21,7 @@
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/-CommerceShop-gold?style=for-the-badge&logo=appveyor">](https://hajshop-8c2b8.web.app/)
+[<img src ="https://img.shields.io/badge/-Commerce_Shop-gold?style=for-the-badge&logo=appveyor">](https://hajshop-8c2b8.web.app/)
 [<img src ="https://img.shields.io/badge/-COVID-red?style=for-the-badge&logo=appveyor">](https://covid-750c3.web.app/)
 [<img src ="https://img.shields.io/badge/-Shop_Layout-blue?style=for-the-badge&logo=appveyor">](https://best-shop-3e4bf.web.app/)
 [<img src ="https://img.shields.io/badge/-ToDoApp-orange?style=for-the-badge&logo=appveyor">](https://todoapp-d9efb.web.app/)
